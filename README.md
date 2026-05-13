@@ -2,7 +2,7 @@
 
 Educational malware detection simulator built with Python.
 
-## 🔥 Demo
+## UI(current)
 
 ![MalX UI](demo.png)
 
